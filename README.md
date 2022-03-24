@@ -1,5 +1,5 @@
-# Module_13_Challenge
-FinTech Boot Camp Module 13: Neural Networks - Binary Classification Models
+# 13: Neural Networks - Binary Classification Models, Optimization, Deep Learning
+FinTech Boot Camp Module 13 Challenge
 
 ---
 
